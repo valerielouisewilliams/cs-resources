@@ -1,22 +1,22 @@
-# cs-resources
-just bookmarking some stuff stuff i use ⭐️
+# CS/SWE RESOURCES I USE 🐆
+just bookmarking some stuff stuff i use
 
-## reference
+## ⭐️ reference
 **https://www.geeksforgeeks.org** // genuinely has everything you would ever need to know probably\
 
-## practice
+## ⭐️ practice
 **www.leetcode.com** // basic asf, ofc practicing for data structures/algo type problems\
 **https://codemia.io** // practice for software architecture/design problems\
 
-## data structures + algorithms:
-**https://visualgo.net/en/bst**\
+## ⭐️ data structures + algorithms:
+**https://visualgo.net/en/bst**
 
-## cyber security 
-**https://ctf101.org/** // great overviews on many security topics\
+## ⭐️ cyber security 
+**https://ctf101.org/** // great overviews on many security topics
 
-## architecture
+## ⭐️ architecture
 
-## services
+## ⭐️ services
 **https://aws.amazon.com** // basic looool\
 **https://firebase.google.com/** // for auth stuff so i dont have to manage it myself
 
