@@ -2,11 +2,11 @@
 just bookmarking some stuff stuff i use
 
 ## ⭐️ reference
-**https://www.geeksforgeeks.org** // genuinely has everything you would ever need to know probably\
+**https://www.geeksforgeeks.org** // genuinely has everything you would ever need to know probably
 
 ## ⭐️ practice
 **www.leetcode.com** // basic asf, ofc practicing for data structures/algo type problems\
-**https://codemia.io** // practice for software architecture/design problems\
+**https://codemia.io** // practice for software architecture/design problems
 
 ## ⭐️ data structures + algorithms:
 **https://visualgo.net/en/bst**
